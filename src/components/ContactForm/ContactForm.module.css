@@ -23,3 +23,7 @@
 .span {
   color: red;
 }
+.inputForm:hover {
+  border-color: blue;
+  outline: none;
+}
