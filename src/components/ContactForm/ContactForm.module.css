@@ -13,4 +13,13 @@
   margin-top: 20px;
   margin-right: auto;
   margin-left: auto;
+  background-color: gray;
+  color: white;
+  border-color: black;
+}
+.btn:hover {
+  background-color: blue;
+}
+.span {
+  color: red;
 }
